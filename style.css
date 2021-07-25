@@ -1,0 +1,27 @@
+.container{
+    display: grid;
+    place-items: center;
+    padding-top: 25px;
+
+}
+
+.avatar{
+    height: 120px;
+    width: 120px;
+    border-color:#E72973;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.contact{
+    text-decoration: none;
+}
+
+.contact:hover{
+   color: #E72973;
+   border: #E72973;
+}
+
+footer{
+    text-align: center;
+}
