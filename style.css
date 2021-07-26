@@ -39,3 +39,36 @@ ul.list{
 #list-item{
     color: black;
 }
+
+#icon-twitter:hover{
+    color:#60B8FF;
+}
+
+#icon-instagram:hover{
+    color: #E04990;
+}
+
+#icon-linkedin:hover{
+    color: #0177B5;
+}
+
+#icon-github:hover{
+    color: #1A1E22;
+}
+
+@media (max-width: 576px) {
+    #icon-twitter{
+        color:#60B8FF;
+    }
+    #icon-instagram{
+        color: #E04990;
+    }
+    
+    #icon-linkedin{
+        color: #0177B5;
+    }
+    
+    #icon-github{
+        color: #1A1E22;
+    }
+}
