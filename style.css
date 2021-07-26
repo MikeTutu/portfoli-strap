@@ -26,3 +26,16 @@ footer{
     text-align: center;
     color: #5A5773;
 }
+
+.amp{
+    color: #E72973;
+}
+
+ul.list{
+    list-style-type: square;
+    color: #E72973;
+}
+
+#list-item{
+    color: black;
+}
