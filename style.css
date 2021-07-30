@@ -56,6 +56,10 @@ ul.list{
     color: #1A1E22;
 }
 
+#icon-whatsapp:hover{
+    color: #00E676;
+}
+
 @media (max-width: 576px) {
     #icon-twitter{
         color:#60B8FF;
@@ -70,5 +74,8 @@ ul.list{
     
     #icon-github{
         color: #1A1E22;
+    }
+    #icon-whatsapp{
+        color: #00E676;
     }
 }
